@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hola! Welcome to my junk draw- I mean ✨projects✨!
+Right now I'm working towards getting all *stacked* in DevOps Engineering 👀
+So far, I've been working on my GitHub skills (actions, you're next...) and on my Azure knowledge! (I've already been messing with pipelines on there 😶‍🌫️)
 
+Hopefully I keep this here space of mine updated with new, cool things!
 <!--
 **damarsierra/damarsierra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
